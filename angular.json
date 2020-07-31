@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "BetheHero-Angular"
+    }
+  },
+  "defaultProject": "BetheHero-Angular",
+  "cli": {
+    "analytics": "7b0e334a-1250-44bf-9757-a5e29de746ec"
+  }
 }
