@@ -1,27 +1,59 @@
-# BetheHeroAngular
+# BE THE HERO
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
+# Sobre o projeto
 
-## Development server
+A 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03, trouxe como projeto uma aplicação web. Um sistema para conectar pessoas dispostas a ajudar a ONGs que precisam dessa ajuda.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Em uma semana foi desenvolvida uma aplicação do zero, dominando o frontend e o backend para realizar cadastros de Ongs e seus devidos casos para pessoas dispostas a ajudar.
 
-## Code scaffolding
+## Layout web
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align= "center">
+  <img width= "870" src ="src/assets/img/login.png">
+  </p>
 
-## Build
+<p align= "center">
+  <img width= "870" src ="src/assets/img/cadastro.png">
+  </p>
+  
+  <p align= "center">
+  <img width= "870" src ="src/assets/img/cadastrarcasos.png">
+  </p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+<p align= "center">
+  <img width= "870" src ="src/assets/img/casoscadastrados.png">
+  </p>
 
-## Running unit tests
+# Tecnologias utilizadas
+## Back end
+- Nodejs
+## Front end
+- HTML / CSS / JS / TypeScript
+- Framework : Angular
+# Como executar o projeto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Back end
+Pré-requisitos: NodeJS
 
-## Running end-to-end tests
+## Front end web
+Pré-requisitos: npm / yarn
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```bash
+# clonar repositório
+git clone https://github.com/lucielly/BeTheHero-Angular.git
 
-## Further help
+# entrar na pasta do projeto front end web
+cd BeTheHero-Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# instalar dependências
+yarn install
+
+# executar o projeto
+yarn start
+```
+
+# Autor
+Lucielly Fernanda santos da silva
+
+https://www.linkedin.com/in/lucielly-fernanda-223876180/
+
